@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Japanese Buddy</string>
+    <string name="category_phrases">Phrases - Furēzu - フレーズ</string>
+    <string name="category_colors">Colors - Iro - 色</string>
+    <string name="category_numbers">Numbers - Sūji - 数字</string>
+    <string name="category_family">Family Members - Kazoku no menbā - 家族のメンバー</string>
+</resources>
